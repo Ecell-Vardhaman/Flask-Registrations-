@@ -1,0 +1,3 @@
+-- database: /Users/sharathbandaari/Downloads/LOGIN/registrations.db
+
+SELECT * FROM registrations;
